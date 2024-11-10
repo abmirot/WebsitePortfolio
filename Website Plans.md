@@ -1,0 +1,2 @@
+With this website, I plan to display many of the different types of projects I’ve completed during college. I’ve created audio ads, lots of written work, and a visual argument for this class, all of which I’d like to present on this website. I want the website to be organized into four separate pages- a homepage, a portfolio page, resume, and contact information. The portfolio page may need to be split into two separate pages. I will need to link to PDF’s and insert mp3’s and images.
+
